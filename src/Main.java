@@ -5,13 +5,15 @@ public class Main {
 
 		System.out.println("원복했습니다.");
 
-		System.out.println("이동준이 짜서 올린 부분");
+		System.out.println("민식이가 짜서 올린 부분.");
 
 		int answer = 0;
 		for (int i = 0; i < 10; i++) {
 			answer += i;
 		}
 		System.out.println(answer);
+
+
 	}
 
 }
